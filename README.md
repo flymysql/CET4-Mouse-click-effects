@@ -6,14 +6,14 @@
 慢慢上升淡化消失····
 HTML中调用代码
   ```
-  <script src="https://www.idealli.com/Star/cet4.js" >
+  <script src="https://www.idealli.com/Star/cet4.js" ></script>
   ```
 
 ![image](https://raw.githubusercontent.com/flymysql/CET4-Mouse-click-effects/master/test_files/test.png)
 
 
 直接在 HTML 中引用 js 文件
-  ```
+```
   <script src="cet4.js" ></script>
-  ```
+```
 
